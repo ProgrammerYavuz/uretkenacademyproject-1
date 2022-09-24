@@ -1,0 +1,145 @@
+*{
+    padding: 0 auto;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    background-color: #ccc;
+    color: #646464;
+    overflow-x: hidden;
+    user-select: none;
+}
+
+.KapsamaAlani{
+    position: relative;
+    display: block;
+    height: 100vh;
+    padding: 0 auto;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    background: transparent;
+}
+
+
+
+table{
+    border: 3px solid #484c50;
+    padding:10px;
+    border-radius: 10px;
+    background-color: #7d858b;
+    margin: 40px auto;
+}
+
+.btn{
+    width: 60px;
+    height: 60px;
+    background-color: #cad2d9;
+    color:#f1f1f1;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    transition: all 0.3s ease;
+    border: 3px solid #484c50;
+}
+
+#btnOpt{
+    background-color: #efa020;
+    color:#fff;
+}
+
+.daire{
+    color:#7d858b;
+    font-weight: bold;
+    border-radius: 50%;
+}
+.daire:hover{
+    background-color: #aaa;
+    color:#fff;
+}
+
+.btn.btn--first{
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #44d5f9;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.LogoKapsamaAlani{
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    border: none;
+    outline: none;
+    margin: 0 auto;
+    margin: 20px 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+.LogoKapsamaAlani img{
+    display: block;
+    width: auto;
+    height: 200px;
+    border: none;
+    outline: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+.LogoKapsamaAlani a{
+    display: block;
+    width: 200px;
+    height: 200px;
+    border: none;
+    outline: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 50px;
+}
+
+
+.LogoMetni{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.FooterAlani{
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    border: none;
+    outline: none;
+    margin: 0 auto;
+    margin-bottom:30px;
+    padding: 0;
+    overflow: hidden;
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+
+
+.FooterAlani a{
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
